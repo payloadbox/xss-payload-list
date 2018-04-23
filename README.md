@@ -8,32 +8,32 @@ An attacker can use XSS to send a malicious script to an unsuspecting user. The 
 
 ###### Cross-site Scripting (XSS)
 
-* https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
+* 👉 https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
 
 ###### XSS (Cross Site Scripting) Prevention Cheat Sheet
 
-* https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet
+* 👉 https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet
 
 ###### DOM based XSS Prevention Cheat Sheet
 
-* https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet
+* 👉 https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet
 
 ###### Testing for Reflected Cross site scripting (OTG-INPVAL-001)
 
-* https://www.owasp.org/index.php/Testing_for_Reflected_Cross_site_scripting_(OTG-INPVAL-001)
+* 👉 https://www.owasp.org/index.php/Testing_for_Reflected_Cross_site_scripting_(OTG-INPVAL-001)
 
 ###### Testing for Stored Cross site scripting (OTG-INPVAL-002)
 
-* https://www.owasp.org/index.php/Testing_for_Stored_Cross_site_scripting_(OTG-INPVAL-002)
+* 👉 https://www.owasp.org/index.php/Testing_for_Stored_Cross_site_scripting_(OTG-INPVAL-002)
 
 ###### Testing for DOM-based Cross site scripting (OTG-CLIENT-001)
 
-* https://www.owasp.org/index.php/Testing_for_DOM-based_Cross_site_scripting_(OTG-CLIENT-001)
+* 👉 https://www.owasp.org/index.php/Testing_for_DOM-based_Cross_site_scripting_(OTG-CLIENT-001)
 
 ###### DOM Based XSS
 
-* https://www.owasp.org/index.php/DOM_Based_XSS
+* 👉 https://www.owasp.org/index.php/DOM_Based_XSS
 
 ###### Cross-Site Scripting (XSS) Cheat Sheet | Veracode
 
-* https://www.veracode.com/security/xss
+* 👉 https://www.veracode.com/security/xss
