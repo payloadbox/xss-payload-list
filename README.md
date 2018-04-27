@@ -2746,3 +2746,13 @@ foo<script>alert(1)</script>
 * [XSS Attacks: Cross-site Scripting Exploits and Defense](https://books.google.com.tr/books/about/XSS_Attacks.html?id=dPhqDe0WHZ8C)
 
 * [XSS Cheat Sheet](https://leanpub.com/xss)
+
+
+### Cloning an Existing Repository ( Clone with HTTPS )
+```
+root@ismailtasdelen:~# git clone https://github.com/ismailtasdelen/xss-payload-list.git
+```
+
+### Cloning an Existing Repository ( Clone with SSH )
+```
+root@ismailtasdelen:~# git clone git@github.com:ismailtasdelen/xss-payload-list.git
