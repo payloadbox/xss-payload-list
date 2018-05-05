@@ -2756,3 +2756,8 @@ root@ismailtasdelen:~# git clone https://github.com/ismailtasdelen/xss-payload-l
 ### Cloning an Existing Repository ( Clone with SSH )
 ```
 root@ismailtasdelen:~# git clone git@github.com:ismailtasdelen/xss-payload-list.git
+```
+
+### Published Website :
+
+##### Kitploit - https://www.kitploit.com/2018/05/xss-payload-list-cross-site-scripting.html
