@@ -2761,3 +2761,15 @@ root@ismailtasdelen:~# git clone git@github.com:ismailtasdelen/xss-payload-list.
 ### Published Website :
 
 ##### Kitploit - https://www.kitploit.com/2018/05/xss-payload-list-cross-site-scripting.html
+
+### Donate!
+
+Support the authors:
+
+#### Paypal:
+
+https://paypal.me/ismailtsdln
+
+#### LiberaPay:
+
+<noscript><a href="https://liberapay.com/ismailtasdelen/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
