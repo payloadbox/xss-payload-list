@@ -2768,10 +2768,6 @@ root@ismailtasdelen:~# git clone git@github.com:ismailtasdelen/xss-payload-list.
 
 Support the authors:
 
-#### Paypal:
-
-https://paypal.me/ismailtsdln
-
 #### LiberaPay:
 
 <noscript><a href="https://liberapay.com/ismailtasdelen/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
