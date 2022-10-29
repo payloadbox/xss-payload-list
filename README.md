@@ -20,7 +20,8 @@ An attacker can use XSS to send a malicious script to an unsuspecting user. The 
 
 * [XSSer](https://tools.kali.org/web-applications/xsser)
 
-* [xsscrapy](https://github.com/DanMcInerney/xsscrapy)
+* [xsscrapy](https://github.com/DanMcInerney/xsscrapy)  
+* [Cyclops](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking)  
 
 #### XSS Payload List :
 
