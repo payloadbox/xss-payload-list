@@ -8,7 +8,7 @@ Cross-Site Scripting (XSS) attacks are a type of injection, in which malicious s
 
 An attacker can use XSS to send a malicious script to an unsuspecting user. The end user’s browser has no way to know that the script should not be trusted, and will execute the script. Because it thinks the script came from a trusted source, the malicious script can access any cookies, session tokens, or other sensitive information retained by the browser and used with that site. These scripts can even rewrite the content of the HTML page. For more details on the different types of XSS flaws, see: [Types of Cross-Site Scripting](https://www.owasp.org/index.php/Types_of_Cross-Site_Scripting).
 
-#### XSS Vulneability Scanner Tool's :
+#### XSS Vulnerability Scanner Tool's :
 
 * [XSStrike](https://github.com/UltimateHackers/XSStrike)
 
